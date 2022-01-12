@@ -9,7 +9,7 @@ header = {
     "Content-Type": "application/json",
     "Accept": "*/*",
     "Connection": "keep-alive",
-    "Authorization": "token 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"
+    "Authorization": "token <$your-personal-access-token>"
 }
 
 data = []
